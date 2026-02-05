@@ -62,4 +62,4 @@ Sigue estos pasos para levantar el proyecto en tu entorno local:
     php artisan serve
     ```
 
-El sistema estará disponible en: `http://localhost:8000`
+El sistema estará disponible en: `http://127.0.0.1:8000/pedidos`
