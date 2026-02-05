@@ -1,7 +1,7 @@
 # Universidad Politécnica Territorial de Aragua (UPTA)
 ## PNF en Informática
 
-### Trayecto 1 Sección 1
+### Trayecto II Sección 1
 
 ### Integrantes del Equipo:
 * Sergio Enrique Ojeda Rojas C.I: 31.261.016
